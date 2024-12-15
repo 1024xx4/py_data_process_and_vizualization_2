@@ -34,6 +34,8 @@ folium = "==0.14.0"
 jupyter = "*"
 fiona = "==1.8.22"
 japanmap = "*"
+gdal = "==3.4.1"
+pyshp = "*"
 
 [dev-packages]
 
